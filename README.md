@@ -15,6 +15,8 @@ download trained data  ： Please email me with your question and the research y
 ## Result
 
 
+![](https://github.com/lucs-C/Unet2d-Infarct/raw/master/Dataset/Infarct.png)  
+
 ## Contact
 * https://github.com/lucs-C
 * email: 2997906313@qq.com
