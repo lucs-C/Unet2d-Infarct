@@ -1,0 +1,2 @@
+model_checkpoint_path: "unet2dglandceil.pd"
+all_model_checkpoint_paths: "unet2dglandceil.pd"
